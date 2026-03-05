@@ -25,8 +25,8 @@
 ## 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=bruno-ramos-de-sousa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-ramos-de-sousa&layout=compact&theme=dracula"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=bruno-ramos-de-sousa&show_icons=true&theme=dracula&count_private=true&cache_seconds=1800" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-ramos-de-sousa&layout=compact&theme=dracula&cache_seconds=1800" />
 </p>
 
 ---
@@ -41,5 +41,5 @@
 ## 💡 Curiosidades sobre mim
 
 * 🎮 Gosto de montar setups e jogos online
-* 🎧 
-* 📖 [Algo que gosta, ex: Gosto de ensinar o que aprendo todos os dias]
+* 🎧 Ouvir Hip-Hop e Rock leve me ajudam a trabalhar
+* 📖 Gosto de ensinar o que aprendo e filmes antigos
