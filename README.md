@@ -1,11 +1,10 @@
 # 👋 Olá, eu sou o Bruno Ramos de Sousa
 
-💻 Desenvolvedor | 🚀 Entusiasta de Tecnologia 
-☕ [Adicione um hobby rápido, ex: Amante de café e códigos limpos]
+💻 Desenvolvedor | ⚙️ Entusiasta de Tecnologia 
 
 ---
 
-## 🚀 Sobre mim
+## ✋ About me
 
 * 🎓 **Formação:** Técnico em Mecatrônica  pela ETEC Getúlio Vargas e futuro analista e desnvolvedor de sistema pela FATEC SP e SENAI Anchieta.
 * 🛠 **Áreas de interesse:** Desenvolvimento Back-end, Front-end e Banco de Dados
@@ -17,7 +16,7 @@
 ## 🛠 Tecnologias & Ferramentas
 
 <p align="left">
- In construction
+ In construction 🔧...
 </p>
 
 ---
@@ -25,8 +24,7 @@
 ## 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=bruno-ramos-de-sousa&show_icons=true&theme=dracula&count_private=true&cache_seconds=1800" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-ramos-de-sousa&layout=compact&theme=dracula&cache_seconds=1800" />
+   <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=bruno-ramos-de-sousa&theme=dracula" />
 </p>
 
 ---
