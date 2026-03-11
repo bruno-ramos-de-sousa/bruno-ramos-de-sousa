@@ -19,7 +19,7 @@
 <p align="center">
  In construction 🔧...
  <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,java,python,git,windows,vscode" alt="Tecnologias que utilizo" />
+  <img src="https://skillicons.dev/icons?i=html,css,java,python,git,windows,vscode,idea" alt="Tecnologias que utilizo" />
  </div>
 </p>
 
