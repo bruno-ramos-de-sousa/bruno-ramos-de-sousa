@@ -16,13 +16,10 @@
 
 ## 🛠 Tecnologias & Ferramentas
 
-<p align="left">
+<p align="center">
  In construction 🔧...
  <div align="center">
-   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
-   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://skillicons.dev/icons?i=html,css,java,python" alt="Tecnologias que utilizo" />
  </div>
 </p>
 
