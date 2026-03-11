@@ -28,8 +28,12 @@
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-   <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=bruno-ramos-de-sousa&theme=dracula" />
+ <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=bruno-ramos-de-sousa&theme=dracula" />
 </p>
+<p align="center">   
+ <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-ramos-de-sousa&layout=compact&langs_count=6&theme=dracula" />
+</p>
+
 
 ---
 
