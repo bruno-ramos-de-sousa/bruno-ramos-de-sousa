@@ -10,7 +10,7 @@
 * ⏱️ **Formacao em andamento:** Futuro analista e desnvolvedor de sistema pela FATEC SP e SENAI Anchieta.
 * 🛠 **Áreas de interesse:** Desenvolvimento Back-end, Front-end e Banco de Dados
 * 💼 **Experiência com:** Em Andamento.
-* 🌱 **Atualmente aprendendo:** AWS, HTTML5, git, java, css.
+* 🌱 **Atualmente aprendendo:** AWS, HTTML5, git, java, css, Python.
 
 ---
 
