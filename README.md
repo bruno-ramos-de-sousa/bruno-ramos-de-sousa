@@ -1,51 +1,47 @@
-# 👋 Olá, eu sou o Bruno Ramos de Sousa
+# 👋 Te apresento o Bruno Ramos!!!
 
-💻 Desenvolvedor | ⚙️ Entusiasta de Tecnologia 
+💻 Desenvolvedor | ⚙️ Mecatrônico | ⚙️ Entusiasta em Hardware 
 
 ---
 
-## ✋ About me
+## ✋ README.MD
 
 * 🎓 **Formação:** Técnico em Mecatrônica pela ETEC Getúlio Vargas
 * ⏱️ **Formacao em andamento:** Futuro analista e desnvolvedor de sistema pela FATEC SP e SENAI Anchieta.
-* 🛠 **Áreas de interesse:** Desenvolvimento Back-end, Front-end e Banco de Dados
 * 💼 **Experiência com:** Em Andamento.
-* 🌱 **Atualmente aprendendo:** HTTML5, git, java, css, Python.
+* 🌱 **Atualmente aprendendo:** HTTML5, CSS3, JavaScript, Versionamento com git/github, Java, Python, Docker.
 
 ---
 
 ## 🛠 Tecnologias & Ferramentas
 
-<p align="center">
- In construction 🔧...
- <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,java,python,git,windows,vscode,idea" alt="Tecnologias que utilizo" />
- </div>
-</p>
+
+<div align="center">
+ <img src="https://skillicons.dev/icons?i=html,css,js,java,python,git,github,windows,ubuntu,vscode,idea,docker" alt="Tecnologias que utilizo" />
+ <p>In construction 🔧...</p>
+</div>
 
 ---
 
 ## 📊 Estatísticas do GitHub
 
-<p align="center">
+<div align="center">
  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=bruno-ramos-de-sousa&theme=dracula" />
-</p>
-<p align="center">   
+</div>
+<div align="center">
  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-ramos-de-sousa&layout=compact&langs_count=6&theme=dracula" />
-</p>
-
+</div>
 
 ---
 
 ## 📫 Contato
-
-<a href="https://www.linkedin.com/in/bruno-ramos-de-sousa-ab5926294/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:brunoramosdsousa@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-
----
+<div align="center">
+ <a href="https://www.linkedin.com/in/bruno-ramos-de-sousa-ab5926294/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+ <a href="mailto:brunoramosdsousa@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</div>
 
 ## 💡 Curiosidades sobre mim
 
 * 🎮 Gosto de montar setups e jogos online
-* 🎧 Ouvir Hip-Hop e Rock leve me ajudam a trabalhar
-* 📖 Gosto de ensinar o que aprendo e filmes antigos
+* 🎧 Grudado no spotfy
+* 📖 Gosto de ensinar o que aprendo para os outros
