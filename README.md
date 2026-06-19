@@ -1,4 +1,4 @@
-# 👋 Te apresento o Bruno Ramos!!!
+# Te apresento o Bruno Ramos!!!
 
 💻 Desenvolvedor | ⚙️ Mecatrônico | ⚙️ Entusiasta em Hardware 
 
@@ -42,6 +42,6 @@
 
 ## 💡 Curiosidades sobre mim
 
-* 🎮 Gosto de montar setups e jogos online
-* 🎧 Grudado no spotfy
-* 📖 Gosto de ensinar o que aprendo para os outros
+*  Gosto de montar setups e jogos online
+*  Grudado no spotfy
+*  Gosto de ensinar o que aprendo para os outros
