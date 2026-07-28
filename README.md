@@ -25,12 +25,8 @@
 
 ## 📊 Estatísticas do GitHub
 
-<div align="center">
- <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=bruno-ramos-de-sousa&theme=dracula" />
-</div>
-<div align="center">
- <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-ramos-de-sousa&layout=compact&langs_count=6&theme=dracula" />
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=bruno-ramos-de-sousa&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=bruno-ramos-de-sousa&theme=highcontrast&hide_border=true)](https://github.com/stats-organization/github-stats-extended)
 
 ---
 
