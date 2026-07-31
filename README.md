@@ -9,7 +9,7 @@
 * 🎓 **Formação:** Técnico em Mecatrônica pela ETEC Getúlio Vargas
 * ⏱️ **Formacao em andamento:** Futuro analista e desnvolvedor de sistema pela FATEC SP e SENAI Anchieta.
 * 💼 **Experiência com:** Em Andamento.
-* 🌱 **Atualmente aprendendo:** HTTML5, CSS3, JavaScript, Versionamento com git/github, Java, Python, Docker.
+* 🌱 **Atualmente aprendendo:** HTML5, CSS3, JavaScript, Versionamento com git/github, Java, Python, Docker.
 
 ---
 
