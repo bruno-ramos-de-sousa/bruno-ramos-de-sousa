@@ -52,8 +52,15 @@
 
 ## 📊 Estatísticas do GitHub
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=bruno-ramos-de-sousa&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=bruno-ramos-de-sousa&theme=highcontrast&hide_border=true)](https://github.com/stats-organization/github-stats-extended)
+<br>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=bruno-ramos-de-sousa&theme=dark&hide_border=true&short_numbers=true" height="160" alt="streak graph" />
+  
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=bruno-ramos-de-sousa&layout=compact&langs_count=5&theme=dark&hide_border=true" height="160" alt="languages graph" />
+</div>
+
+<br>
 
 ---
 
